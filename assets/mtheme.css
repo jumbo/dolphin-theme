@@ -1,0 +1,14 @@
+.Pen-preview {
+  display: flex;
+  flex: 1 0 auto;
+  height: auto;
+  max-height:none;
+}
+.Preview-wrapper {
+  position: relative;
+  top: auto;
+  bottom: auto;
+  height: auto;
+  width: auto;
+  min-width: 200px;
+}
